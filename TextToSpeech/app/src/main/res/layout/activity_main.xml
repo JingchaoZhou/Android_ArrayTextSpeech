@@ -12,16 +12,16 @@
         android:id="@+id/edit_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Enter Text"
-        android:layout_marginBottom="16dp"/>
+        android:layout_marginBottom="16dp"
+        android:hint="Please press the button" />
 
-    <Button
-        android:id="@+id/save_forlater"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:text="Save for later"
-        />
+    <!--<Button-->
+        <!--android:id="@+id/save_forlater"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="center_horizontal"-->
+        <!--android:text="Save for later"-->
+        <!--/>-->
 
     <Button
         android:id="@+id/button_speak"
